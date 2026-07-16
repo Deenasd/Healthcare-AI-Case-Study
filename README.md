@@ -9,7 +9,7 @@ This project addresses the inefficiencies in hospital outpatient workflows. By a
 ## 1. Problem Statement (As-Is)
 The current patient journey is hindered by manual, siloed processes that force patients to act as "data couriers" between departments.
 
-![Figure 1: Current State](https://drive.google.com/file/d/1MXzxqgmmerQqm7C01hyc9x2qzyip6zSH/view?usp=sharing)
+![Figure 1: Current State]()
 
 **Key Friction Points:**
 * Repetitive queuing for payments and receipts.
@@ -21,7 +21,7 @@ The current patient journey is hindered by manual, siloed processes that force p
 ## 2. Proposed Solution (To-Be)
 The proposed architecture introduces a Multi-Agent AI system to automate administrative tasks, allowing the patient to focus on clinical care.
 
-![Figure 2: Future State](https://drive.google.com/file/d/16ikY9EXTeeJyi5R3KQq8zLbjUihReJcV/view?usp=sharing)
+![Figure 2: Future State]()
 
 **Key Improvements:**
 * **AI Billing Agent:** Enables real-time digital payments.
@@ -37,7 +37,7 @@ The proposed architecture introduces a Multi-Agent AI system to automate adminis
 
 4. Process Maps
 Visual representation of the journey transformation:
-● Figure 1: Current State (Problem Statement): [https://drive.google.com/file/d/1MXzxqgmmerQqm7C01hyc9x2qzyip6zSH/view?usp=sharing]
+● Figure 1: Current State (Problem Statement): []
 ● Figure 2: Future State (AI-Enabled Architecture): [https://drive.google.com/file/d/16ikY9EXTeeJyi5R3KQq8zLbjUihReJcV/view?usp=sharing]
 
 5. Business & Performance Metrics (Target KPIs)
